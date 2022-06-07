@@ -2,7 +2,7 @@ var Pessoa = function(){ //Classe definida
     this.nome=""         //Propriedades (Variavéis)
     this.telefone=""    //Declarar propriedade com o this, limita com que a variável receba um determinado valor nesta chamada      
     this.email=""
-    this.data_naci=""
+    this.data_nasci=""
     this.Falar=function(){ //Método (Função)
         alert(`Nome: ${this.nome}`); 
         alert(`Telefone: ${this.telefone}`);
@@ -18,6 +18,6 @@ var p= new Pessoa() /* Instânciando (Criando um novo objeto a partir do modelo 
 p.nome='Suellen'
 p.telefone='(DD) 9 9999-9999'
 p.email='suellencostasilva@outlook.com'
-p.data_naci='21/12/1998'
+p.data_nasci='21/12/1998'
 
 console.log(p) // Chamada para printar no terminal (Node.js) 
