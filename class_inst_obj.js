@@ -1,4 +1,4 @@
-// NOTAÇÃO LITERAL
+// NOTAÇÃO LITERAL com função construtora
 
 var Pessoa = function(){ //Classe definida
     this.nome=""         //Propriedades (Variáveis)
