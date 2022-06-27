@@ -7,3 +7,5 @@ Durante o estudo, usei duas formas para declarar um objeto, forma literal e usan
 Para esclarecer dúvida em ambos na teroria usei o  site https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Working_with_Objects .
 Para esclarecer na prática, criei meus próprios exemplos.
 
+No primeiro exemplo, não consegui instânciar o objeto literal sem usar a função construtora, caso alguém saiba, estou aberta a correções.
+
