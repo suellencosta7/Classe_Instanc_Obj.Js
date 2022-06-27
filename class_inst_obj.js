@@ -12,8 +12,9 @@ var Pessoa = function(){ //Classe definida
     } 
 }
 
-var p= new Pessoa() /* Instânciando (Criando um novo objeto a partir do modelo já definido).
-                     Neste caso, 'p' recebe todas as propriedades definidas da Classe Pessoa */
+var p= new Pessoa() /* Instânciando : Criando um novo objeto (PALAVRA CHCAVE 'new') a partir do modelo já definido.
+                         Objeto é chamada da classe permitindo a inserção de valores.   
+                     Neste caso,'p' recebe todas as propriedades definidas da Classe Pessoa */
 
 //Prenchendo dados
 
