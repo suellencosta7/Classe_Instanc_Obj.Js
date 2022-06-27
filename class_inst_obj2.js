@@ -1,6 +1,6 @@
 // Função construtora
 
-function Pessoa (nome,telefone,email,data_nasci){     /*Classe (MOLDE) definida com 5 paramertros declarados. 
+function Pessoa (nome,telefone,email,data_nasci){     //Classe (MOLDE) definida com 5 paramertros declarados. 
                 
         this.nome= nome          //Propriedades nome,telefone (Variáveis)
         this.telefone= telefone  //Declarar propriedade com o this, limita com que a variável receba um determinado valor nesta chamada      
@@ -20,3 +20,5 @@ var pessoa1 = new Pessoa(); // Instânciando (Criando um novo objeto a partir da
 var pessoa1 = new Pessoa('Suellen','(DD) 9 9999-9999','suellencostasilva@outlook.com','21/12/1998') // Dados inseridos na ordem
 
 console.log(pessoa1) // Output Node.Js
+
+
