@@ -1,3 +1,5 @@
+// NOTAÇÃO LITERAL
+
 var Pessoa = function(){ //Classe definida
     this.nome=""         //Propriedades (Variáveis)
     this.telefone=""    //Declarar propriedade com o this, limita com que a variável receba um determinado valor nesta chamada      
